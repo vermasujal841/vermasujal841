@@ -9,5 +9,6 @@
 - 🎯 Goals 2024: Next.js FullStck 🚀
 - 🎲 And ... I Like to watch Anime 🎸
 
-## I code with
-![My Skills](https://skillicons.dev/icons?i=next,react,js,tailwind,git,github,mongodb,nodejs,expressjs,zod)
+## I Code With
+![My Skills](https://skillicons.dev/icons?i=next,react,js,tailwind,git,github,mongodb,nodejs,expressjs)
+<img src="https://your-image-link-here.com/zod-logo.png" alt="Zod" width="40" height="40">
