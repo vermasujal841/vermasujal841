@@ -11,4 +11,3 @@
 
 ## I Code With
 ![My Skills](https://skillicons.dev/icons?i=next,react,js,tailwind,git,github,mongodb,nodejs,expressjs)
-<img src="https://github.com/colinhacks/zod/blob/main/logo.svg" alt="Zod" width="40" height="40">
