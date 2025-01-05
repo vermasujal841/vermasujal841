@@ -10,4 +10,4 @@
 - 🎲 And ... I Like to watch Anime 🎸
 
 ## I Code With
-![My Skills](https://skillicons.dev/icons?i=next,react,js,tailwind,git,mongodb,nodejs,expressjs,redux,postman,ts)
+![My Skills](https://skillicons.dev/icons?i=next,react,js,tailwind,git,mongodb,nodejs,expressjs,redux,postman,ts,prisma,postgres)
