@@ -6,7 +6,7 @@
 
 - ✨ Creating bugs since 2023
 - 📚 I'm currently learning WebSocketing <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/07/langchain3.png" width="17" />  and docker 🐳
-- 🎯 Goals 2024: Next.js FullStck 🚀
+- 🎯 Goals 2025: Web 3 🚀
 - 🎲 And ... I Like to watch Anime 🎸
 
 ## I Code With
